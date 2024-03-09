@@ -1,0 +1,256 @@
+1709956515180	geckodriver	INFO	Listening on 127.0.0.1:41541
+1709956872512	geckodriver	INFO	Listening on 127.0.0.1:38995
+1709956873016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "54427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGXppi9"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709956873433	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709956873540	Marionette	INFO	Listening on port 42101
+WebDriver BiDi listening on ws://127.0.0.1:54427
+Read port: 42101
+1709956873774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709956873807	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:36379","sslProxy":"127.0.0.1:36379"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54427/devtools/browser/157f9c62-5945-4edc-bea3-f5d3ac6789c3
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709956904504	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709956919688	Marionette	INFO	Stopped listening on port 42101
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38319 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38247 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38237 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38225 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38110 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38027, IPC I/O Parent] WARNING: waitid failed pid:38091 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709956994589	geckodriver	INFO	Listening on 127.0.0.1:51519
+1709956995103	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "33765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileD9NprK"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709956995498	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709956995579	Marionette	INFO	Listening on port 40509
+WebDriver BiDi listening on ws://127.0.0.1:33765
+Read port: 40509
+1709956995763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709956995787	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45179","sslProxy":"127.0.0.1:45179"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33765/devtools/browser/be7f24a5-b699-47e4-b8f0-cf2c0d1d5a3b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957025840	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709957056894	Marionette	INFO	Stopped listening on port 40509
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz, line 353: Script terminated by timeout at:
+n@https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz:353:771
+
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38760 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38770 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38765 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38867 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38647 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 38561, IPC I/O Parent] WARNING: waitid failed pid:38625 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957300754	geckodriver	INFO	Listening on 127.0.0.1:36169
+1709957301266	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "36405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRFnaHz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957301839	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957301996	Marionette	INFO	Listening on port 40973
+Read port: 40973
+WebDriver BiDi listening on ws://127.0.0.1:36405
+1709957302146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957302182	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:41523","sslProxy":"127.0.0.1:41523"}
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36405/devtools/browser/4ba33124-d9cb-4f14-8a7c-9e3db445d60b
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957331969	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709957347037	Marionette	INFO	Stopped listening on port 40973
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iubz4/yz/l/en_GB/To0_Tlo0D39eIbTqv6VSI0WT3i_d2GUBCDYvatkvPhoOwnLRpWokKCE5862a_5WlNlU04yhqTJCgEXh1Hq9TdN78mGY6ngRbxKw1Rdzuzi16ygzIul6wI0TZYaGGludfDvoIGc1wa-Oq19cevyCvEVQbD2OmPobANp9KHpDnYRWx5vjUI-nf-Q7CgsPinyxqTrIOGwlU_6SmVEaVr-HIBN0ayME1p55HfXW__mMgFRlCsGN0FHzi95_wmB-51YxoStyBz2gE2pEQn4HVER6.js?_nc_x=Ij3Wp8lg5Kz, line 404: Script terminated by timeout at:
+f.useEffect@https://static.xx.fbcdn.net/rsrc.php/v3iubz4/yz/l/en_GB/To0_Tlo0D39eIbTqv6VSI0WT3i_d2GUBCDYvatkvPhoOwnLRpWokKCE5862a_5WlNlU04yhqTJCgEXh1Hq9TdN78mGY6ngRbxKw1Rdzuzi16ygzIul6wI0TZYaGGludfDvoIGc1wa-Oq19cevyCvEVQbD2OmPobANp9KHpDnYRWx5vjUI-nf-Q7CgsPinyxqTrIOGwlU_6SmVEaVr-HIBN0ayME1p55HfXW__mMgFRlCsGN0FHzi95_wmB-51YxoStyBz2gE2pEQn4HVER6.js?_nc_x=Ij3Wp8lg5Kz:404:8483
+a@https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz:543:6102
+a@https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz:552:562
+a@https://static.xx.fbcdn.net/rsrc.php/v3imhr4/y_/l/en_GB/gT5NeijbjeU.js?_nc_x=Ij3Wp8lg5Kz:25:898
+a@https://static.xx.fbcdn.net/rsrc.php/v3imhr4/y_/l/en_GB/gT5NeijbjeU.js?_nc_x=Ij3Wp8lg5Kz:27:1036
+ef@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:43425
+Qg@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:67270
+Lk@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:127515
+vk@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:122269
+uk@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:122242
+tk@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:122086
+bk@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:117745
+O@https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:229:2292
+U@https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/NgPDZn8n1f5.js?_nc_x=Ij3Wp8lg5Kz:229:2893
+
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/rally-studies-v1 getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39793 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39891 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39798 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39826 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39692 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 39593, IPC I/O Parent] WARNING: waitid failed pid:39668 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957369466	geckodriver	INFO	Listening on 127.0.0.1:34025
+1709957392213	geckodriver	INFO	Listening on 127.0.0.1:59463
+1709957392725	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "36063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec1teGa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957393288	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957393441	Marionette	INFO	Listening on port 40777
+Read port: 40777
+WebDriver BiDi listening on ws://127.0.0.1:36063
+1709957393603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957393678	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42293","sslProxy":"127.0.0.1:42293"}
+console.error: ({})
+DevTools listening on ws://127.0.0.1:36063/devtools/browser/13695a79-1a01-4d03-80b3-e37e197ec2cd
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957423781	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_14
+libva info: va_openDriver() returns 0
+1709957452167	Marionette	INFO	Stopped listening on port 40777
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz, line 17: Script terminated by timeout at:
+b@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:17:2377
+
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40721 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40737 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40753 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40826 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40622 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 40525, IPC I/O Parent] WARNING: waitid failed pid:40600 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957486817	geckodriver	INFO	Listening on 127.0.0.1:60567
+1709957487328	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "57631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKrLwer"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957487700	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957487767	Marionette	INFO	Listening on port 38901
+WebDriver BiDi listening on ws://127.0.0.1:57631
+Read port: 38901
+1709957487978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957487999	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38121","sslProxy":"127.0.0.1:38121"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57631/devtools/browser/2d427603-debc-40ac-81df-4a2685859e9a
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957518259	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709957541480	Marionette	INFO	Stopped listening on port 38901
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz, line 353: Script terminated by timeout at:
+n@https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz:353:584
+
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41651 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41661 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41748 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41656 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41539 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 41455, IPC I/O Parent] WARNING: waitid failed pid:41520 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957543150	geckodriver	INFO	Listening on 127.0.0.1:34935
+1709957543653	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "33137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2PPnw2"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957544030	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957544103	Marionette	INFO	Listening on port 44711
+WebDriver BiDi listening on ws://127.0.0.1:33137
+Read port: 44711
+1709957544279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957544302	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:35403","sslProxy":"127.0.0.1:35403"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:33137/devtools/browser/e4f8d492-a2dc-4a93-8226-71d22ac73a66
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957574063	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709957591498	Marionette	INFO	Stopped listening on port 44711
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz, line 353: Script terminated by timeout at:
+n@https://static.xx.fbcdn.net/rsrc.php/v3iLse4/y8/l/en_GB/KqZsCP4T0zZ.js?_nc_x=Ij3Wp8lg5Kz:353:584
+
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42566 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42695 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42582 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42575 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42454 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 42368, IPC I/O Parent] WARNING: waitid failed pid:42434 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957703084	geckodriver	INFO	Listening on 127.0.0.1:46587
+1709957703588	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "35931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6zj3lE"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957703934	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957704005	Marionette	INFO	Listening on port 40863
+WebDriver BiDi listening on ws://127.0.0.1:35931
+Read port: 40863
+1709957704184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957704204	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45447","sslProxy":"127.0.0.1:45447"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:35931/devtools/browser/c43de6a3-598e-4baa-8acf-231703b9f19f
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957734022	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1709957750733	Marionette	INFO	Stopped listening on port 40863
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz, line 167: Script terminated by timeout at:
+d@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:139170
+Wm/<@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:154914
+ik@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:119618
+ll@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:137822
+Wm@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:153123
+mp@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:188965
+lp@https://static.xx.fbcdn.net/rsrc.php/v3i_ir4/y7/l/en_GB/VJJwyc3DW9m.js?_nc_x=Ij3Wp8lg5Kz:167:188870
+
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43571 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43671 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43582 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43576 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43457 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 43370, IPC I/O Parent] WARNING: waitid failed pid:43437 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+1709957752663	geckodriver	INFO	Listening on 127.0.0.1:44907
+1709957753173	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ng" "--remote-debugging-port" "56753" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenZf6qk"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1709957753676	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-no-sandbox"
+console.error: "Warning: unrecognized command line flag" "-ignore-certificate-errors"
+console.error: "Warning: unrecognized command line flag" "-log-level"
+console.error: "Warning: unrecognized command line flag" "-disable-notifications"
+1709957753746	Marionette	INFO	Listening on port 36929
+WebDriver BiDi listening on ws://127.0.0.1:56753
+Read port: 36929
+1709957753908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1709957753966	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44297","sslProxy":"127.0.0.1:44297"}
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56753/devtools/browser/106f714e-df1b-495a-97c6-a1440aa7ec5c
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iobe4/yN/l/en_GB/Ul5YqPlQJBC.js?_nc_x=Ij3Wp8lg5Kz, line 112: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1709957782122	Marionette	INFO	Stopped listening on port 36929
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44487 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44613 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44501 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44508 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44380 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
+[Parent 44295, IPC I/O Parent] WARNING: waitid failed pid:44360 errno:10: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_posix.cc:244
